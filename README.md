@@ -1,4 +1,5 @@
 # Universal-Creation-OS-Part1
+Please refer the file named "English-Version" if you want to view in English.
 # 万物創生OS理論（ベータ版）
 ## — 物質・情報・精神・経済を統合する多次元創生アーキテクチャ —
 
@@ -78,4 +79,4 @@ G(Θ) = M
 
 ---
 ※ 本理論は現時点における「ベータ版」であり、世界中の数学者、量子物理学者、エンジニアによる検証、共同開発、および数理モデルの肉付けを広く求めます。
-Please refer the 
+
